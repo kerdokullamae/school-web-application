@@ -1,0 +1,27 @@
+/* Navbar, liigutab valikud paremale */
+
+.custom {
+    float: right;
+}
+/* Tabelite joondus vasakule */
+
+.table {
+    text-align: left;
+}
+/* Tabelite viimaste tulpade joondus keskele*/
+
+.table .last {
+    text-align: center;
+}
+/* Kõikide nuppude lingid */
+
+.btn a,
+.btn a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+/* Tausta värv body elementidele */
+
+body {
+    background-color: #fafafa;
+}
